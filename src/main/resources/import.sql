@@ -1,0 +1,2 @@
+INSERT INTO user (code, names, lastName, password, status) VALUES ('EO2022', 'Elmer', 'Ochoa', '12345', 1);
+INSERT INTO user (code, names, lastName, password, status) VALUES ('SR2022', 'Sonia', 'Ramoz', '67891', 1);
